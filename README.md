@@ -2,12 +2,12 @@
 
 Mood Tracker App Implementation
 
-Inspired by and due credits to the amazing [OlleFrost's Work](https://www.reddit.com/user/ollefrost/) as shared here [on Reditt](https://www.reddit.com/r/Design/comments/d18vxo/concept_ui_for_a_mood_tracker_app_went_for/) implemented in Flutter with few improvs :)
+Inspired by and due credits to the amazing [OlleFrost's Work](https://www.reddit.com/user/ollefrost/) as shared here [on Reddit](https://www.reddit.com/r/Design/comments/d18vxo/concept_ui_for_a_mood_tracker_app_went_for/) implemented in Flutter with few improvs :)
 
 Hope you guys will like it. Please give your feedbacks and help me improve this.
 
-[Wes Fy Fonts downloaded from here](https://www.onlinewebfonts.com/fonts/wes_fy)
-[Icons downloaded from here](https://www.flaticon.com/)
+- [Wes Fy Fonts downloaded from here](https://www.onlinewebfonts.com/fonts/wes_fy)
+- [Icons downloaded from here](https://www.flaticon.com/)
 
 ## Getting Started
 
