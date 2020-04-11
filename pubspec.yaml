@@ -1,0 +1,44 @@
+name: moodtracker
+description: Mood Tracker App Implementation
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^3.2.0
+  equatable: ^1.1.1
+  provider_architecture: ^1.0.5
+  path_provider: ^1.6.5
+  get_it: ^1.0.3
+  intl: ^0.16.1
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: montserrat
+      fonts:
+        - asset: assets/fonts/wesfy/wesfy_regular.ttf
+        - asset: assets/fonts/wesfy/wesfy_semibold.ttf
+          weight : 700
+        - asset: assets/fonts/wesfy/wesfy_bold.ttf
+          weight : 800
+
+  assets:
+    - assets/images/happy.png
+    - assets/images/smile.png
+    - assets/images/meh.png
+    - assets/images/sad.png
+    - assets/images/very_sad.png
+    - assets/images/next_icon.png
+    - assets/images/close_icon.png
+    - assets/images/add_fab_icon.png
+    - assets/images/previous_icon.png
